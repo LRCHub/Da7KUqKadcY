@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "วันนี้ปีที่แล้ว",
+  "base_artist": "MEYOU",
+  "createdAt": "2026-02-06T16:34:25.964864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "วันนี้ปีที่แล้ว",
+      "artist": "MEYOU",
+      "has_synced": true,
+      "path": "select/01_วันนี้ปีที่แล้ว_MEYOU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "วันนี้ปีที่แล้ว",
+      "artist": "MEYOU",
+      "has_synced": false,
+      "path": "select/02_วันนี้ปีที่แล้ว_MEYOU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "วันนี้ปีที่แล้ว",
+      "artist": "มียู",
+      "has_synced": true,
+      "path": "select/03_วันนี้ปีที่แล้ว_มียู.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "วันนี้ปีที่แล้ว",
+      "artist": "MEYOU",
+      "has_synced": false,
+      "path": "select/pl_01_วันนี้ปีที่แล้ว_MEYOU.txt"
+    }
+  ]
+}
